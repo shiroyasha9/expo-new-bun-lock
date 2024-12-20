@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "555e7352-b13b-4a8d-a859-2fdaa5c1a841"
+      }
+    },
+    "owner": "mubin-memorang"
   }
 }
